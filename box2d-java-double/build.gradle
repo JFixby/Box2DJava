@@ -1,0 +1,6 @@
+dependencies {
+//    compile "com.github.Scarabei.ScarabeiRed:scarabei-red:$scarabeiRedVersion"
+    
+    compile "com.github.RedTriplane.Box2D:box2d-api:$box2DAPILevel"
+
+}
